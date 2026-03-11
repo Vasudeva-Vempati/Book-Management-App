@@ -116,7 +116,7 @@ git — version
 
 #### Clone repository
 ```bash
-git clone https://github.com/learnItRightWay01/react-node-mysql-app.git
+git clone https://github.com/Vasudeva-Vempati/Book-Management-App.git
 ```
 
 #### Install node.js
@@ -208,7 +208,7 @@ systemctl stop nginx
 systemctl disable nginx 
 
 # Create a custom welcome message file 
-echo "Welcome to Presentation Tier EC2 instance in Availability Zone B." > /usr/share/nginx/html/index.html 
+echo "Welcome to Frontend EC2 instance in Availability Zone B." > /usr/share/nginx/html/index.html 
 
 # Start and enable the Nginx service 
 systemctl start nginx 
